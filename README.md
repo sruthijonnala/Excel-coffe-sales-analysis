@@ -14,4 +14,4 @@ We can see there an pick for the coffee shop around 8 hr and continue increasing
 Weekdays were most busiest . On working days most people prefer coffee to reduce work stress. On Weekdays we it can be seen around 16-17 hr comparatively busy from the Weekends.
 Barista Espresso which come under the cofee category is the most selling product which generated revenue of $91,406, followed by Brewed Black Tea which fall under the category of Tea which managed to earn $77,081.
 Packaged Chocolate is the least selling Product Category. Only sold around $4400.
-Average Bill per person is $4.69 and Average order 1.44.
+Average Bill per person is $4.69 and Average order 1.44..
